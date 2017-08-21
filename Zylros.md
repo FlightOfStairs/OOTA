@@ -39,7 +39,14 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 ### Find familiar
 
-_Only as ritual - Book of Ancient Secrets_
+_From Book of Ancient Secrets_
+
+* 1st-level conjuration
+* Casting Time: 1 hour
+* Range: 10 ft
+* Components: V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
+* Duration: Instantaneous
+* Ritual
 
 You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, Lizard, Octopus, owl, Poisonous Snake, fish (quipper), rat, raven, Sea Horse, Spider, or Weasel. Appearing in an unoccupied space within range, the familiar has the Statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
 
