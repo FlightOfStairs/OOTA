@@ -139,4 +139,3 @@ On your adventures, you can add other ritual Spells to your Book of Shadows. Whe
 * Choose 3 remaining cantrips
 * Choose another 1st-level spell (due to Book of Ancient Secrets)
 * Update character sheet with chosen Invocations.
-* Fix Find Familiar - not a Cantrip, not on Warlock list.
