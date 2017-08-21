@@ -39,7 +39,21 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 ### Find familiar
 
-Should probably be removed. Not a cantrip. Not on the Warlock spell list. Only usable by Pact of the Chain, not Pack of the Tome.
+_Only as ritual - Book of Ancient Secrets_
+
+You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, Lizard, Octopus, owl, Poisonous Snake, fish (quipper), rat, raven, Sea Horse, Spider, or Weasel. Appearing in an unoccupied space within range, the familiar has the Statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+
+Your familiar acts independently of you, but it always obeys your commands. In Combat, it rolls its own initiative and acts on its own turn. A familiar can't Attack, but it can take other actions as normal.
+
+When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again.
+
+While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any Special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
+
+As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.
+
+You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.
+
+Finally, when you Cast a Spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an Attack roll, you use your Attack modifier for the roll.
 
 ### Armor of Agathys
 
@@ -104,11 +118,18 @@ ___At Higher Levels.___ When you cast this spell using a spell slot of 3rd level
 
 When you cast Eldritch Blast, add your Charisma modifier to the damage it deals on a hit.
 
+### Book of Ancient Secrets
+
+You can now inscribe magical Rituals in your Book of Shadows. Choose two 1st-level Spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The Spells appear in the book and don’t count against the number of Spells you know. With your Book of Shadows in hand, you can cast the chosen Spells as Rituals. You can’t cast the Spells except as Rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+
+On your adventures, you can add other ritual Spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+
 ## Todo
 
 * Choose (or update character sheet) Traits/Ideals/Bonds/Flaws
 * Add Features/Traits to character sheet
 * Add to inventory: Book of Shadows
 * Choose 3 remaining cantrips
-* Choose another Invocation
+* Choose another 1st-level spell (due to Book of Ancient Secrets)
+* Update character sheet with chosen Invocations.
 * Fix Find Familiar - not a Cantrip, not on Warlock list.
