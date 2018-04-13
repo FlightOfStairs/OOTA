@@ -158,9 +158,11 @@ _Correct for Ranger level 5._
 ### Abilities
 
 __Keen Smell__ The panther has advantage on Wisdom (Perception) checks that rely on smell. 
+
 __Pounce__ If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
 
 ### Actions
 
 __Bite__ _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. Hit: 1d6 + 5 piercing damage. _(4 + 3)_, _(2 + 3)_
+
 __Claw__ _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. Hit: 1d4 + 5 slashing damage. _(4 + 3)_, _(2 + 3)_
