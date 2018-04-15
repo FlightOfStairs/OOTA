@@ -199,6 +199,37 @@ __Pounce__ If the panther moves at least 20 feet straight toward a creature and 
 
 ### Actions
 
-__Bite__ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. Hit: 1d6 + 6 piercing damage. _(attack and damage include proficiency_
+__Bite__ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. Hit: 1d6 + 6 piercing damage. _(attack and damage include proficiency)_
 
-__Claw__ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. Hit: 1d4 + 6 slashing damage. _(attack and damage include proficiency_
+__Claw__ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. Hit: 1d4 + 6 slashing damage. _(attack and damage include proficiency)_
+
+## Items
+
+__TODO: add 130 gold to sheet__
+
+### Elven Longblade
+
+__TODO: add to sheet__
+
+_Weapon (rapier), uncommon_
+
+* __Properties__ Finesse, Light
+* __Damage__ 1d8 Slashing
+
+This thin, courtly sword is uncannily quick to strike.
+
+### Studded Leather Armour
+
+__TODO: add to sheet__
+
+_Light Armour_
+
+* __AC__ 12 + Dex
+
+Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
+
+### Gloves of Comfort
+
+__TODO: add to sheet__
+
+These gloves keep the user's hands warm and dry or cool and comfortable and are resistant to damage from normal use. They can be used to handle thorns, sharp objects, or very hot or cold items with no harm to the gloves or the user. Minor cuts or tears in the gloves will repair themselves after a long rest but purposefully cutting, burning, etc., will destroy the gloves.
