@@ -1,4 +1,4 @@
-# Unnamed Player
+# Kristris
 
 ## Background: Outlander (Bounty hunter)
 
@@ -172,7 +172,7 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 
 __At Higher Levels.__ When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
 
-## Companion: Unnamed (panther)
+## Companion: Enbella (panther)
 
 _Correct for level 5._
 
