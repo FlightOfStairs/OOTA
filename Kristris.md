@@ -130,6 +130,10 @@ Additionally, you have advantage on saving throws against the spells and abiliti
 
 __TODO: Choose new language. Draconic?__
 
+### Beast Conclave - Beast’s Defense
+
+At 7th level, while your companion can see you, it has advantage on all saving throws.
+
 ## Spells
 
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. To cast a spell, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
