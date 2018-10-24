@@ -47,7 +47,7 @@ https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.
 
-You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favoured enemies, as well as on Intelligence checks to recall information about them.
+You gain a +4 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favoured enemies, as well as on Intelligence checks to recall information about them.
 
 When you gain this feature, you also learn one language of your choice, typically one spoken by your favoured enemy or creatures associated with it. 
 However, you are free to pick any language you wish to learn.
@@ -122,6 +122,14 @@ Beginning at 5th level, you and your animal companion form a more potent fightin
 
 When you use the Attack action on your turn, if your companion can see you, it can use its reaction to make a melee attack.
 
+### Greater Favoured Enemy: Dragon
+
+At 6th level, you are ready to hunt even deadlier game. You gain all the benefits against this chosen enemy that you normally gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4.
+
+Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.
+
+__TODO: Choose new language. Draconic?__
+
 ## Spells
 
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. To cast a spell, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -171,6 +179,18 @@ Until the spell ends, whenever you or a creature you can see moves into the spir
 As a bonus action on your turn, you can move the spirit up to 30 feet to a space you can see.
 
 __At Higher Levels.__ When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
+
+### Detect Magic
+
+* 1st-level Divination
+* Casting Time: 1 Action
+* Duration: 10 Minutes (Concentration)
+* Range: Self (30ft)
+* Components: V, S
+
+For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+
+The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 ## Companion: Enbella (panther)
 
